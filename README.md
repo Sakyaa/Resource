@@ -9,6 +9,7 @@
  - [UI](#UI)
 
 
+
  - [视频类](#视频类)
    - [视频播放](#视频播放)
    - [视频直播](#视频直播)
@@ -62,6 +63,9 @@
 ##### UI
 * [无限图片轮播](https://github.com/1271284056/Unlimited-images-player) - 无限图片轮播demo
 * [瀑布流 ](https://github.com/1271284056/Waterfall-flow) - 瀑布流 [简书地址 ](http://www.jianshu.com/p/03b57f0cf342)
+##### 颜色处理
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon 是一个轻量却功能强大的 iOS 颜色框架软件。它基于的理念是：软件应用程序应该可以不费力气且同时保持多个漂亮的界面。
+使用 Chameleon ，你不再需要调配 RGB 值，不用浪费时间去找你的 APP 合适的颜色组合，也不用担心你 APP 的文字是否能在不同背景色上可读
 
 
 
