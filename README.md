@@ -2,7 +2,9 @@
 #常用库的整理
 
 
--[文档类](#文档类)
+-[博客](#博客)
+
+-[简书](#简书)
 
 -[代码类](#代码类)
  - [搜索控制器](#搜索控制器)
@@ -29,8 +31,12 @@
 ##### 文档类
 -[各类优秀的博客](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
 
-#####代码类
+##### 简书
+-[CoreData](http://www.jianshu.com/p/4411f507dd9f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note) - 详细介绍coreData 操作信息
 
+
+
+#####代码类
 
 ##### 搜索控制器
 * [PYSearch](https://github.com/iphone5solo/PYSearch) - 一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 app）风格的搜索控制器。
@@ -38,6 +44,7 @@
 ##### UI
 * [无限图片轮播](https://github.com/1271284056/Unlimited-images-player) - 无限图片轮播demo
 * [瀑布流 ](https://github.com/1271284056/Waterfall-flow) - 瀑布流 [简书地址 ](http://www.jianshu.com/p/03b57f0cf342)
+* [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel 是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety iCarousel 轮播样式种类丰富.
 ##### 颜色处理
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon 是一个轻量却功能强大的 iOS 颜色框架软件。它基于的理念是：软件应用程序应该可以不费力气且同时保持多个漂亮的界面。
 使用 Chameleon ，你不再需要调配 RGB 值，不用浪费时间去找你的 APP 合适的颜色组合，也不用担心你 APP 的文字是否能在不同背景色上可读
