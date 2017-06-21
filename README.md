@@ -43,7 +43,7 @@
 ##### 表格
 * [Charts](https://github.com/danielgindi/Charts) - 漂亮的曲线图、饼状图、柱状图、散点图、气泡图、雷达图，更多的图形都在 charts 库里。
 * [PNChart](https://github.com/kevinzhow/PNChart) - 带动画效果的图表控件。
-* [SCChart]
+* [SCChart]-简单的表格。
 
 
 
@@ -53,6 +53,9 @@
 
 ##### 动画
 * [Onboard](https://github.com/mamaral/Onboard) - 仅需添加几行代码，即可轻松创建一个美丽和吸引人的载入体验。
+
+##### 图片选择器
+* [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。
 
 ##### 视频类
 
