@@ -43,6 +43,9 @@
 ##### 表格
 * [Charts](https://github.com/danielgindi/Charts) - 漂亮的曲线图、饼状图、柱状图、散点图、气泡图、雷达图，更多的图形都在 charts 库里。
 * [PNChart](https://github.com/kevinzhow/PNChart) - 带动画效果的图表控件。
+* [SCChart]
+
+
 
 ##### 侧滑
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 一个易于使用的 UITableViewCell 子类，可展示多种过渡方式的可滑动按钮。
