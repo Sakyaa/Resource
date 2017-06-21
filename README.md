@@ -1,21 +1,22 @@
 
-#整理文档
+#常用库的整理
 
 
 -[文档类](#文档类)
-
 -[代码类](#代码类)
  - [搜索控制器](#搜索控制器)
  - [UI](#UI)
-
-
-
+   - [颜色处理](#颜色处理)
+   - [表格](#表格)
+   - [侧滑](#侧滑)
+ - [动画](#动画)
+ - [图片选择器](#图片选择器)
  - [视频类](#视频类)
    - [视频播放](#视频播放)
    - [视频直播](#视频直播)
-
  - [数据安全](#数据安全)
    - [数据加密](#数据加密)
+ - [日历库](#日历库)
  - [视图跳转](#视图跳转)
  - [数据库](#数据库)
  - [SDK解析](#SDK解析)
@@ -24,38 +25,11 @@
 
 
 详细信息  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##### 文档类
 -[各类优秀的博客](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #####代码类
+
 
 ##### 搜索控制器
 * [PYSearch](https://github.com/iphone5solo/PYSearch) - 一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 app）风格的搜索控制器。
@@ -66,8 +40,16 @@
 ##### 颜色处理
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon 是一个轻量却功能强大的 iOS 颜色框架软件。它基于的理念是：软件应用程序应该可以不费力气且同时保持多个漂亮的界面。
 使用 Chameleon ，你不再需要调配 RGB 值，不用浪费时间去找你的 APP 合适的颜色组合，也不用担心你 APP 的文字是否能在不同背景色上可读
+##### 表格
+* [Charts](https://github.com/danielgindi/Charts) - 漂亮的曲线图、饼状图、柱状图、散点图、气泡图、雷达图，更多的图形都在 charts 库里。
+* [PNChart](https://github.com/kevinzhow/PNChart) - 带动画效果的图表控件。
+
+##### 侧滑
+* [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 一个易于使用的 UITableViewCell 子类，可展示多种过渡方式的可滑动按钮。
 
 
+##### 动画
+* [Onboard](https://github.com/mamaral/Onboard) - 仅需添加几行代码，即可轻松创建一个美丽和吸引人的载入体验。
 
 ##### 视频类
 
@@ -89,6 +71,9 @@
 ##### 数据加密
 * [LBAES](https://github.com/AllLuckly/LBAES/tree/master) - iOS 开发之 AES+Base64 数据混合加密与解密.[源码分析](http://www.jianshu.com/p/16930be4dddc)
 
+
+##### 日历库
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 完全可定制的 iOS 日历库，兼容 Objective-C 和 Swift 。
 
 ##### 视图跳转
 * [DCURLRouter](https://github.com/DarielChen/DCURLRouter) - ,就是通过自定义URL+拼接参数,实现跳转.当然啦,DCURLRouter的功能远不止这点.[简书地址](http://www.jianshu.com/p/36a43202b0cd)
