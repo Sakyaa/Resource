@@ -4,6 +4,8 @@
 
 -[博客](#博客)
 
+-[文章](#文章)
+
 -[简书](#简书)
 
 -[代码类](#代码类)
@@ -30,6 +32,10 @@
 详细信息  
 ##### 文档类
 -[各类优秀的博客](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
+
+
+#####文章
+-[iOS-Design-Patterns](https://github.com/skyming/Trip-to-IOS-Design-Patterns)- 设计模式
 
 ##### 简书
 -[CoreData](http://www.jianshu.com/p/4411f507dd9f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note) - 详细介绍coreData 操作信息
