@@ -106,7 +106,8 @@ push: 在push中,控制器的管理其实交给了UINavigationController,所以�
 ##### 数据库
 * [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) - 专业的数据库存储解决方案。
 
-* [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) - -基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc)
+* [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) - 基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc)
+* [LKFMDB](https://github.com/HectorLiuk/LKFMDB) 数据库加密，重点介绍数据库pods加密方式和不支持pods两种加密方式。[简书地址](http://www.jianshu.com/p/bd7845062cc8?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)
 
 ##### SDK解析
 
