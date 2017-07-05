@@ -2,6 +2,8 @@
 #常用库的整理
 
 
+-[破解软件](#破解软件)
+
 -[博客](#博客)
 
 -[文章](#文章)
@@ -29,7 +31,14 @@
 
 
 
-详细信息  
+详细信息
+
+
+##### 破解软件
+
+-[史蒂芬周的博客](http://www.sdifen.com)
+-[Xclient](http://xclient.info/s/?_=28224c24c5d048ba73bf06b15e2a6668)
+
 ##### 文档类
 -[各类优秀的博客](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
 
