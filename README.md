@@ -34,7 +34,7 @@
 详细信息
 
 
-##### 破解软件
+## 破解软件
 
 -[史蒂芬周的博客](http://www.sdifen.com)
 
@@ -47,7 +47,7 @@
 -[各类优秀的博客](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
 
 
-#####文章
+##### 文章
 -[iOS-Design-Patterns](https://github.com/skyming/Trip-to-IOS-Design-Patterns)- 设计模式
 
 ##### 简书
