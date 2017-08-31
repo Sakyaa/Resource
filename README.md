@@ -24,6 +24,7 @@
  - [数据安全](#数据安全)
    - [数据加密](#数据加密)
  - [日历库](#日历库)
+ - [富文本](#富文本)
  - [视图跳转](#视图跳转)
  - [数据库](#数据库)
  - [SDK解析](#SDK解析)
@@ -53,6 +54,10 @@
 ### 简书
 -[CoreData](http://www.jianshu.com/p/4411f507dd9f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note) - 详细介绍coreData 操作信息
 
+### 三方库
+-[优秀三方库](https://github.com/Tim9Liu9/TimLiu-iOS#完整App) - 优秀三方库收集
+
+
 
 
 ### 代码类
@@ -72,6 +77,8 @@
 #### 表格
 * [Charts](https://github.com/danielgindi/Charts) - 漂亮的曲线图、饼状图、柱状图、散点图、气泡图、雷达图，更多的图形都在 charts 库里。
 * [PNChart](https://github.com/kevinzhow/PNChart) - 带动画效果的图表控件。
+* [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等。
+* [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下。
 * [SCChart]-简单的表格。
 
 
@@ -109,6 +116,9 @@
 
 ### 日历库
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 完全可定制的 iOS 日历库，兼容 Objective-C 和 Swift 。
+
+### 富文本
+* [MLEmojiLabel](https://github.com/molon/MLEmojiLabel) - 自动识别网址、号码、邮箱、@、#话题#和表情的label。可以自定义自己的表情识别正则，和对应的表情图像。(默认是识别微信的表情符号)，继承自TTTAttributedLabel，所以可以像label一样使用。label的特性全都有，使用起来更友好更方便。
 
 ### 视图跳转
 * [DCURLRouter](https://github.com/DarielChen/DCURLRouter) - ,就是通过自定义URL+拼接参数,实现跳转.当然啦,DCURLRouter的功能远不止这点.[简书地址](http://www.jianshu.com/p/36a43202b0cd)
