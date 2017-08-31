@@ -42,6 +42,8 @@
 -[Xclient](http://xclient.info/s/?_=28224c24c5d048ba73bf06b15e2a6668)
 
 -[ITellYou](http://msdn.itellyou.cn)
+-[MacTool](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+
 
 
 ### 博客
