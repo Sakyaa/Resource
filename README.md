@@ -56,6 +56,10 @@
 ### 简书
 -[CoreData](http://www.jianshu.com/p/4411f507dd9f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note) - 详细介绍coreData 操作信息
 
+### 掘金
+-[转场动画](https://juejin.im/entry/597557cf5188256e5402016c) - 仿微信图片浏览转场、酷狗转场 - iOS自定义交互式转场动画(从零到一 + 实战案例)
+
+
 ### 三方库
 -[优秀三方库](https://github.com/Tim9Liu9/TimLiu-iOS#完整App) - 优秀三方库收集
 
@@ -99,7 +103,7 @@
 
 #### 视频播放
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
-* [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1)
+* [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1) ;静态库的下载地址(http://nightlies.videolan.org/build)
 
 
 #### 视频直播
