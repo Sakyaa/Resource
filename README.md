@@ -11,6 +11,7 @@
 
 -[代码类](#代码类)
  - [搜索控制器](#搜索控制器)
+ - [导航条管理](#导航条管理)
  - [UI](#UI)
    - [颜色处理](#颜色处理)
 
@@ -70,6 +71,10 @@
 
 #### 搜索控制器
 * [PYSearch](https://github.com/iphone5solo/PYSearch) - 一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 app）风格的搜索控制器。
+
+#### 导航条管理
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 导航条透明度管管理。
+
 
 #### UI
 * [无限图片轮播](https://github.com/1271284056/Unlimited-images-player) - 无限图片轮播demo
