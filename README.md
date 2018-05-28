@@ -19,6 +19,7 @@
  - [侧滑](#侧滑)
  - [动画](#动画)
  - [图片选择器](#图片选择器)
+ - [图片预览](#图片预览)
  - [视频类](#视频类)
    - [视频播放](#视频播放)
    - [视频直播](#视频直播)
@@ -27,6 +28,7 @@
  - [日历库](#日历库)
  - [富文本](#富文本)
  - [视图跳转](#视图跳转)
+ - [组件化](#组件化)
  - [数据库](#数据库)
  - [SDK解析](#SDK解析)
   - [支付类SDK](#支付类SDK)
@@ -103,6 +105,9 @@
 
 #### 图片选择器
 * [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。
+#### 图片预览
+* [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser) - 高仿QQ、微信效果的图片浏览器（支持原图和缩略图、多种手势、CocoaPods）
+* [XLPhotoBrowser](https://github.com/CoderXLLau/XLPhotoBrowser) - iOS图片浏览器 - XLPhotoBrowser(类似微信多图片浏览效果）
 
 ### 视频类
 
@@ -138,6 +143,8 @@ modal:任何控制器都能通过Modal的形式展⽰出来.效果:新控制器�
 push: 在push中,控制器的管理其实交给了UINavigationController,所以在push控制器的时候必须拿到对应的导航控制器. 效果:从右往左出现,系统会带有一个默认动画.
 [简书地址](http://www.jianshu.com/p/802d47f0f311)
 
+### 组件化
+* [CTMediator](https://casatwy.com/iOS-Modulization.html) - 一个App的组件化方案
 
 ### 数据库
 * [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) - 专业的数据库存储解决方案。
