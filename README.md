@@ -15,11 +15,14 @@
  - [UI](#UI)
    - [颜色处理](#颜色处理)
 
+ - [提示框](#提示框)
+
  - [表格](#表格)
  - [侧滑](#侧滑)
  - [动画](#动画)
  - [图片选择器](#图片选择器)
  - [图片预览](#图片预览)
+ - [轮播图](#轮播图)
  - [视频类](#视频类)
    - [视频播放](#视频播放)
    - [视频直播](#视频直播)
@@ -81,11 +84,15 @@
 #### UI
 * [无限图片轮播](https://github.com/1271284056/Unlimited-images-player) - 无限图片轮播demo
 * [瀑布流 ](https://github.com/1271284056/Waterfall-flow) - 瀑布流 [简书地址 ](http://www.jianshu.com/p/03b57f0cf342)
-* [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel 是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety iCarousel 轮播样式种类丰富.
+
+
 
 #### 颜色处理
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon 是一个轻量却功能强大的 iOS 颜色框架软件。它基于的理念是：软件应用程序应该可以不费力气且同时保持多个漂亮的界面。
 使用 Chameleon ，你不再需要调配 RGB 值，不用浪费时间去找你的 APP 合适的颜色组合，也不用担心你 APP 的文字是否能在不同背景色上可读
+
+#### 提示框
+* [TSMessages](https://github.com/KrauseFx/TSMessages) - 导航下面提示信息
 
 #### 表格
 * [Charts](https://github.com/danielgindi/Charts) - 漂亮的曲线图、饼状图、柱状图、散点图、气泡图、雷达图，更多的图形都在 charts 库里。
@@ -108,6 +115,9 @@
 #### 图片预览
 * [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser) - 高仿QQ、微信效果的图片浏览器（支持原图和缩略图、多种手势、CocoaPods）
 * [XLPhotoBrowser](https://github.com/CoderXLLau/XLPhotoBrowser) - iOS图片浏览器 - XLPhotoBrowser(类似微信多图片浏览效果）
+
+#### 轮播图
+* [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel 是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety iCarousel 轮播样式种类丰富.
 
 ### 视频类
 
@@ -151,6 +161,8 @@ push: 在push中,控制器的管理其实交给了UINavigationController,所以�
 
 * [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) - 基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc)
 * [LKFMDB](https://github.com/HectorLiuk/LKFMDB) 数据库加密，重点介绍数据库pods加密方式和不支持pods两种加密方式。[简书地址](http://www.jianshu.com/p/bd7845062cc8?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)
+* [WCDB](https://github.com/Tencent/wcdb) - 是腾讯开源的一个数据库三方库，使用起来比FMDB更加方便，性能更高
+
 
 ### SDK解析
 
